@@ -23,7 +23,7 @@ public class Stream {
             new ScoreData("Doe", "Mary", 85),
             new ScoreData("Page", "Alice", 82),
             new ScoreData("Cooper", "Jill", 97),
-            new ScoreData("Flintstone", "Fred", 66),
+            new ScoreData("Flintstones", "Fred", 66),
             new ScoreData("Rubble", "Barney", 80),
             new ScoreData("Smith", "Judy", 48),
             new ScoreData("Dean", "James", 90),
